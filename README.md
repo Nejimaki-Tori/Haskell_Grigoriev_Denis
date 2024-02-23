@@ -1,2 +1,2 @@
 # Haskell_Grigoriev_Denis
-Project on Haskell
+Практическая работа на Хаскеле(Григорьев Денис 324)
