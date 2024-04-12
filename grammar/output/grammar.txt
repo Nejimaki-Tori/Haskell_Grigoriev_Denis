@@ -1,9 +1,0 @@
-Start Symbol: 1
-Alphabet: ab
-All nonterminals: 
-1
-21
-
-21 -> _ | a21 | b21
-1 -> a21 | b1
-
